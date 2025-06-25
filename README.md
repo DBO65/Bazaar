@@ -8,6 +8,7 @@ This is the repository for the MVP of Bazaar, A UF student centered marketplace 
 - [Value Proposition](#value-proposition)
 - [Competitive Analysis](#competitive-analysis)
 - [Business Model](#business-model)
+- [Features](#features)
 
 # Mission Statement
 The core vision for Bazaar is to create a safe and reliable online marketplace for UF students to buy, sell, rent and trade items and/or services.  The driving reason behind this is to mitigate scamming and unsatisfactory deals as much as possible.  Bazaar also knows most college students are not liquid in cash and so want to offer them a way to still get the item/services they desire by facilitating bartering betweens users on the app.  
@@ -36,3 +37,14 @@ The bartering system is a system that will allow users to exchange items and or 
 
 # Business Model
 The business model for bazaar will be that for transactions that use purely cash, Bazaar will take a percent of that transaction on top of a small flat fee.  For bartering transactions, if cash is involved a similar percent will be taken and if not no fee will be associated.  If a customer does not want to pay the additional percentage fee for each individual transaction they can opt in to a subscription model that removes that fee entirely for each month paid. Users can also opt to pay a fee to boost their item’s visibility in the marketplace.
+
+# Features
+- Listing Items + Item descriptions 
+- Buying Items 
+- Bartering UI + Bartering 
+- Make it so that users only pay when they meet up
+- Offering Safe Meeting locations
+- Saving listed Items/Wishlist
+- In-app Messaging
+- Moderation Features
+- Geolocation “Safe meet-up Locations”
