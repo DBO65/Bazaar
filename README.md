@@ -11,7 +11,7 @@ This is the repository for the MVP of Bazaar, A UF student centered marketplace 
 - [Features](#features)
 
 # Mission Statement
-The core vision for Bazaar is to create a safe and reliable online marketplace for UF students to buy, sell, rent and trade items and/or services.  The driving reason behind this is to mitigate scamming and unsatisfactory deals as much as possible.  Bazaar also knows most college students are not liquid in cash and so want to offer them a way to still get the item/services they desire by facilitating bartering betweens users on the app.  
+The core vision for Bazaar is to create a safe and reliable online marketplace for UF students to buy, sell, rent, and trade items and/or services.  The driving reason behind this is to mitigate scamming and unsatisfactory deals as much as possible.  Bazaar also knows most college students are not liquid in cash and so want to offer them a way to still get the item/services they desire by facilitating bartering betweens users on the app.  
 
 Bazaar also aims to be as easily accessible and the experience of using Bazaar to be as easy and user friendly as possible. Striving to foster a trusted and supportive community where students can engage with one another, exchange goods and services, and support their peers. 
 
@@ -36,7 +36,7 @@ What differentiates the Bazaar marketplace is its trustworthiness and flexibilit
 The bartering system is a system that will allow users to exchange items and or services  for other items/services.  This feature will boost traffic to the app by facilitating transactions for an underserved demographic, that market being students who wish to use alternative methods of payment.  By serving this demographic Bazaar hopes to boost traffic to the app.
 
 # Business Model
-The business model for bazaar will be that for transactions that use purely cash, Bazaar will take a percent of that transaction on top of a small flat fee.  For bartering transactions, if cash is involved a similar percent will be taken and if not no fee will be associated.  If a customer does not want to pay the additional percentage fee for each individual transaction they can opt in to a subscription model that removes that fee entirely for each month paid. Users can also opt to pay a fee to boost their item’s visibility in the marketplace.
+The business model for Bazaar will be that for transactions that use purely cash, Bazaar will take a percent of that transaction on top of a small flat fee.  For bartering transactions, if cash is involved a similar percent will be taken and if not no fee will be associated.  If a customer does not want to pay the additional percentage fee for each individual transaction they can opt in to a subscription model that removes that fee entirely for each month paid. Users can also opt to pay a fee to boost their item’s visibility in the marketplace.
 
 # Features
 - Listing Items + Item descriptions 
