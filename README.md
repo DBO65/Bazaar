@@ -1,50 +1,50 @@
-# Bazaar
-This is the repository for the MVP of Bazaar, A UF student centered marketplace platform
+# Welcome to your Expo app 👋
 
-# Table of Contents
-- [Mission Statement](#mission-Statement)
-- [Problem](#problem)
-- [Target Audience](#target-audience)
-- [Value Proposition](#value-proposition)
-- [Competitive Analysis](#competitive-analysis)
-- [Business Model](#business-model)
-- [Features](#features)
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-# Mission Statement
-The core vision for Bazaar is to create a safe and reliable online marketplace for UF students to buy, sell, rent, and trade items and/or services.  The driving reason behind this is to mitigate scamming and unsatisfactory deals as much as possible.  Bazaar also knows most college students are not liquid in cash and so want to offer them a way to still get the item/services they desire by facilitating bartering betweens users on the app.  
+## Get started
 
-Bazaar also aims to be as easily accessible and the experience of using Bazaar to be as easy and user friendly as possible. Striving to foster a trusted and supportive community where students can engage with one another, exchange goods and services, and support their peers. 
+1. Install dependencies
 
-Finally Bazaar intends to ensure the security & integrity are always maintained. To ensure security and integrity are maintained authentication measures will be implemented alongside safe storage of user information and robust reporting features will be implemented to ensure the integrity of the app is not affected by bad actors.  
+   ```bash
+   npm install
+   ```
 
-# Problem
-The problem Bazaar is tackling is the current informal, untrustworthy marketplace that college students use to buy/sell items/services.  Some examples of this marketplace are Snapchat Story postings, Facebook marketplace postings, and GroupMe postings to name a few.  These marketplaces, despite being hosted by trustworthy sites, allow bad actors (E.g. Ticket scalpers and Scammers) to engage in and take advantage of UF students.  
+2. Start the app
 
-Bazaar and seeks to solve is to create an app that allows users to be verified by their UF email to ensure that they are real people, and create an app that allows not only for transactions to take place but, unlike our competitors, allows for more informal transactions such as bartering to take place as well.  
+   ```bash
+   npx expo start
+   ```
 
-# Target Audience
-The target audience of Bazaar is current, leaving, and prospective students of the University of Florida.
+In the output, you'll find options to open the app in a
 
-# Value Proposition
-The value Bazaar offers is that it allows for safe, trustworthy transactions between students while also allowing for more informal transactions to occur.  Competitor market places that have had time to establish themselves do not offer a bartering system.  This bartering system that Bazaar hopes to implement will allow the informal transactions many students make to be facilitated in a safe, trustworthy manner and therefore allow more user transactions to take place.  This allows the users of Bazaar to have flexible payment options for items, have greater access to UF specific items/services, to have unique opportunities for massive savings, and greater security for transactions other apps couldn’t offer. Bazaar enables UF students to safely list and sell/buy items and services, even if they have no cash, by combining student-only access, bartering, and real-time communication.
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-# Competitive Analysis
-The main competitors of Bazaar are similar marketplace applications like Depop, Facebook Marketplace and Grailed alongside social media platforms where informal transactions already take place such as Snapchat, Instagram and GroupMe.  
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-What differentiates the Bazaar marketplace is its trustworthiness and flexibility.  It will have the same trust building features standard for a marketplace app (E.g. Reporting, banning bad actors and verifying trusted ones).  It will also however need a UF email in order for an account to be created.  This will allow all users on the app to know that every other user is a verified UF student or faculty member.  This is important as it facilitates the bartering system.
+## Get a fresh project
 
-The bartering system is a system that will allow users to exchange items and or services  for other items/services.  This feature will boost traffic to the app by facilitating transactions for an underserved demographic, that market being students who wish to use alternative methods of payment.  By serving this demographic Bazaar hopes to boost traffic to the app.
+When you're ready, run:
 
-# Business Model
-The business model for Bazaar will be that for transactions that use purely cash, Bazaar will take a percent of that transaction on top of a small flat fee.  For bartering transactions, if cash is involved a similar percent will be taken and if not no fee will be associated.  If a customer does not want to pay the additional percentage fee for each individual transaction they can opt in to a subscription model that removes that fee entirely for each month paid. Users can also opt to pay a fee to boost their item’s visibility in the marketplace.
+```bash
+npm run reset-project
+```
 
-# Features
-- Listing Items + Item descriptions 
-- Buying Items 
-- Bartering UI + Bartering 
-- Make it so that users only pay when they meet up
-- Offering Safe Meeting locations
-- Saving listed Items/Wishlist
-- In-app Messaging
-- Moderation Features
-- Geolocation “Safe meet-up Locations”
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
